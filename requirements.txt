@@ -1,0 +1,7 @@
+streamlit
+gitpython
+nbformat
+groq
+python-dotenv
+watchdog
+fpdf

@@ -1,0 +1,31 @@
+# General Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# Project Specific
+# Ignore the directory where we clone other repos
+temp_repos/
+cloned_data/
+*.tmp
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+repo_context.txt
